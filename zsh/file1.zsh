@@ -1,1 +1,4 @@
-echo "File, number : $RANDOM"
+#!/bin/zsh
+
+random_number = $RANDOM
+echo "Number: $random_number"
