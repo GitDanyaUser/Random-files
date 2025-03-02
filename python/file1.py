@@ -1,4 +1,4 @@
-def chechifeven(number):
+def checkifeven(number):
   """ Function for check if even
   Im just testing """
   if not isinstance(number, int):
